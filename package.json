@@ -18,9 +18,12 @@
   "homepage": "https://github.com/AnushaPendyam/weather-app#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
     "formidable": "^1.2.1",
+    "jsonwebtoken": "^8.3.0",
     "nodemailer": "^4.6.8",
     "request": "^2.88.0",
     "yargs": "^12.0.2"
